@@ -104,6 +104,20 @@
      					    <a href="#" class="btn-view">view profile</a>
      				</div>
      			</div>
+             <div class="col-md-3 col-sm-6 col-xs-12">
+           <div class="intern-block border-blue">
+     					<img src="https://avatars2.githubusercontent.com/u/32965534?s=460&v=4" alt="codemon">
+     					  <h6>Johnson Awah Alfred</h6>
+                 <p>FullStack Developer</p>
+                 <ul class="list">
+                 <li><a href="https://twitter.com/ceofred_" target="_blank"<i class="fab fa-twitter"></i></a></li>
+                 <li><a href="https://github.com/CeoFred" target="_blank"<i class="fab fa-github"></i></a></li>
+                 <li><a href="https://medium.com/@ceofred" target="_blank"<i class="fab fa-medium"></i></a></li>
+                 </ul>
+     					    <a href="../intern/codemon" class="btn-view">view profile</a>
+     				</div>
+     			</div>
+
      			<div class="col-md-3 col-sm-6 col-xs-12">
            <div class="intern-block border-blue">
      					<img src="../app/img/about-talent.png" alt="">
